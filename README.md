@@ -9,4 +9,4 @@ Total modules required - 7
 If you enjoyed using Friday AI & want to DM me just drop a message @ Linkedin (available in my git hub profile section) 
 
 Features covered - open & close notepad, opening newspaper sites, sending mail, Friday can even open media palyer & can paly a random song for you.
-# In the code I have even used comments to explain the process where possible.
+# In the code I have even used comments to explain the process where ever possible.
